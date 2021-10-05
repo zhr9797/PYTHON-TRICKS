@@ -1,3 +1,4 @@
+#this trick to draw corona virus using turtle library in python :
 from turtle import *
 color('green')
 bgcolor('black')
